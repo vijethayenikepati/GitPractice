@@ -21,7 +21,7 @@ Main {
     public void method1(){
         System.out.println("feature2 branch edit1");
     }
-    
+
     public void method3(){
         System.out.println("main branch edit");
     }
