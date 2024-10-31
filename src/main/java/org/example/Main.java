@@ -13,4 +13,8 @@ Main {
         System.out.println("Feature 1 second change");
         System.out.println("Feature 1");
     }
+
+    public void method1(){
+        System.out.println("feature2 branch edit1");
+    }
 }
