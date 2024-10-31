@@ -12,5 +12,6 @@ Main {
         System.out.println("Edit3 in Master branch");
         System.out.println("Feature 1 second change");
         System.out.println("Feature 1");
+        System.out.println("Feature 1 latest");
     }
 }
