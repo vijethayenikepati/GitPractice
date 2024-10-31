@@ -14,6 +14,9 @@ Main {
         System.out.println("Feature 1");
         System.out.println("Feature 1 latest");
     }
+    public void method2(){
+        System.out.println("Feature1 code edit 1");
+    }
 
     public void method1(){
         System.out.println("feature2 branch edit1");
